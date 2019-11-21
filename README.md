@@ -1,4 +1,4 @@
-# Image recognition with Tensorflow
+# Image classification with Tensorflow
 
 ## What and why
 
@@ -21,8 +21,8 @@ docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "$PWD"/notebooks:/home/jovy
 
 ## Acknowledgements
 
-Based on Google's Tensorflow tutorial
+Based on Google's image classification tutorial
 https://raw.githubusercontent.com/tensorflow/hub/master/examples/image_retraining/retrain.py
 https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/examples/label_image/label_image.py
 
-and also course TIES4911 Deep-Learning for Cognitive Computing for Developers at University of Jyväskylä demo excercises.
+and course TIES4911 Deep-Learning for Cognitive Computing for Developers at University of Jyväskylä demo excercises.
